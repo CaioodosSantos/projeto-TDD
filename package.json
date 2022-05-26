@@ -1,0 +1,23 @@
+{
+  "name": "projeto-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioodosSantos/projeto-TDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioodosSantos/projeto-TDD/issues"
+  },
+  "homepage": "https://github.com/CaioodosSantos/projeto-TDD#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
